@@ -47,3 +47,20 @@ The principle of Zero Trust and segmentation
 
 ✅ Key takeaway: Strong access control is the first line of defense against unauthorized activity.
 ![ISC2 DOMAIN 3](https://github.com/user-attachments/assets/e78fb002-72f1-4342-88d8-8b7e8c0ef53e)
+---
+
+## 🛡️ Domain 4: Network Security – Completed
+
+📚 **(ISC)² Certified in Cybersecurity (CC) Training**
+
+This section of the course focused on the fundamentals of network security, including:
+
+- 🔐 Network security devices and technologies (firewalls, IDS/IPS, VPNs)
+- 🌐 Common network threats (DDoS, spoofing, MITM attacks)
+- 🛠️ Security controls and network hardening techniques
+- 🧱 Segmentation and secure network design principles
+- 🔄 Importance of monitoring and logging network activity
+
+📌 **Key Takeaway:** Understanding network security is essential for protecting digital infrastructure and supporting secure operations—especially as I pursue a career in **SOC/Blue Team roles**.
+![DOMAIN 4 ISC2](https://github.com/user-attachments/assets/52fc3cf2-a32a-414c-b095-e8de1adadddd)
+
