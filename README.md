@@ -64,3 +64,23 @@ This section of the course focused on the fundamentals of network security, incl
 📌 **Key Takeaway:** Understanding network security is essential for protecting digital infrastructure and supporting secure operations—especially as I pursue a career in **SOC/Blue Team roles**.
 ![DOMAIN 4 ISC2](https://github.com/user-attachments/assets/52fc3cf2-a32a-414c-b095-e8de1adadddd)
 
+✅ Domain 5 Completed: Security Operations
+As part of my ISC2 CC learning journey, I’ve completed Domain 5: Security Operations.
+
+Key areas covered include:
+
+Basics of security monitoring and alerting
+
+Incident response lifecycle
+
+Importance of business continuity and disaster recovery planning
+
+Digital forensics fundamentals
+
+Understanding of SOC roles and responsibilities
+
+📌 This milestone is documented as part of my broader commitment to cybersecurity learning and readiness for the ISC2 CC exam.
+
+🗂️ View progress: [GitHub repo link]
+🧠 Ongoing: Final domain review + practice questions![domain 5 ISC2](https://github.com/user-attachments/assets/bccd6577-d85c-4fd5-a6c9-47832d128e3c)
+
