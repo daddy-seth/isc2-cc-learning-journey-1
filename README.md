@@ -84,3 +84,24 @@ Understanding of SOC roles and responsibilities
 🗂️ View progress: [GitHub repo link]
 🧠 Ongoing: Final domain review + practice questions![domain 5 ISC2](https://github.com/user-attachments/assets/bccd6577-d85c-4fd5-a6c9-47832d128e3c)
 
+I'm pleased to share that I’ve successfully completed the Certified in Cybersecurity (CC) Course Pre-assessment from ISC2.
+
+This marks a key step in my journey toward earning the full ISC2 CC certification, validating my foundational knowledge in essential areas of cybersecurity such as:
+
+🔐 Security Principles
+🛡️ Risk Management
+💾 Asset Management
+👤 Identity & Access Control
+⚙️ Security Operations
+
+This pre-assessment completion is valid for 3 years and shows my readiness to take on real-world cybersecurity challenges and further certifications.
+
+📄 Issued to: Charles Mordi
+📅 Valid for: 3 years
+🎯 Credential: ISC2 CC – Course Pre-assessment
+
+🧠 Next Step: I'm continuing to build hands-on experience through labs and learning platforms like TryHackMe, CyberDefenders, and more as I aim for an entry-level role in SOC or GRC.
+
+#Cybersecurity #ISC2 #CertifiedInCybersecurity #BlueTeam #SecurityOperations #CyberCareer #EntryLevelCybersecurity #CharlesMordi![ISC2 PRE](https://github.com/user-attachments/assets/e082bd65-69e8-484f-a3ed-079f6928c9bd)
+
+
