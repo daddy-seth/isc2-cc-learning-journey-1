@@ -100,6 +100,17 @@ This pre-assessment completion is valid for 3 years and shows my readiness to ta
 📅 Valid for: 3 years
 🎯 Credential: ISC2 CC – Course Pre-assessment
 
+🎉 Proud to announce I've successfully completed the ISC2 Certified in Cybersecurity (CC) Course Conclusion & Final Assessment! 🎉
+
+This certificate marks an important milestone in my cybersecurity journey, validating my knowledge and skills in core cybersecurity principles aligned with ISC2’s globally recognized standards.
+
+A huge thank you to ISC2 for the comprehensive training and assessment, which has strengthened my foundation in cybersecurity best practices and prepared me for future challenges in this dynamic field.
+
+I’m excited to continue growing professionally and contributing to secure digital environments.
+
+![ISC2 F ASSESSMENT](https://github.com/user-attachments/assets/d35a39fd-193a-4af3-9750-ab49854c1a20)
+
+
 🧠 Next Step: I'm continuing to build hands-on experience through labs and learning platforms like TryHackMe, CyberDefenders, and more as I aim for an entry-level role in SOC or GRC.
 
 #Cybersecurity #ISC2 #CertifiedInCybersecurity #BlueTeam #SecurityOperations #CyberCareer #EntryLevelCybersecurity #CharlesMordi![ISC2 PRE](https://github.com/user-attachments/assets/e082bd65-69e8-484f-a3ed-079f6928c9bd)
