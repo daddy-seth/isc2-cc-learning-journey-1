@@ -110,6 +110,9 @@ I’m excited to continue growing professionally and contributing to secure digi
 
 ![ISC2 F ASSESSMENT](https://github.com/user-attachments/assets/d35a39fd-193a-4af3-9750-ab49854c1a20)
 
+https://isc2.obrizum.io/org/cc/certificate
+
+
 
 🧠 Next Step: I'm continuing to build hands-on experience through labs and learning platforms like TryHackMe, CyberDefenders, and more as I aim for an entry-level role in SOC or GRC.
 
